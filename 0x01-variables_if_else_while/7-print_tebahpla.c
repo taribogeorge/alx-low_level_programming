@@ -4,7 +4,6 @@
  *   * Return:0 if no errors, non zero if errors
  */
 int main(void)
-
 {
 	char i;
 
@@ -13,4 +12,3 @@ int main(void)
 		putchar('\n');
 	return (0);
 }
-
